@@ -15,14 +15,12 @@
         android:layout_width="@dimen/shape_size_small"
         android:layout_height="@dimen/shape_size_small"
         android:padding="16dp"
-        style="@style/CustomShapeSmall"
-        android:background="@drawable/custom_shape" />
+        style="@style/CustomShapeSmall" />
     
     <View
         android:layout_width="@dimen/shape_size_large"
         android:layout_height="@dimen/shape_size_large"
         android:padding="16dp"
-        style="@style/CustomShapeLarge"
-        android:background="@drawable/custom_shape" />
+        style="@style/CustomShapeLarge" />
 
 </LinearLayout>

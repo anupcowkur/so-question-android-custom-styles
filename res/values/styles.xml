@@ -22,11 +22,11 @@
     </style>
 
     <style name="CustomShapeSmall">
-        <item name="android:thicknessRatio">@integer/thickness_ratio_small</item>
+        <item name="android:background">@drawable/custom_shape_small_ratio</item>
     </style>
 
     <style name="CustomShapeLarge">
-        <item name="android:thicknessRatio">@integer/thickness_ratio_large</item>
+        <item name="android:background">@drawable/custom_shape_large_ratio</item>
     </style>
 
 </resources>
