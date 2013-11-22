@@ -3,7 +3,6 @@
     android:dither="true"
     android:innerRadiusRatio="3"
     android:shape="ring"
-    android:thicknessRatio="?attr/thicknessRatio"
     android:useLevel="false" >
  
     <gradient
